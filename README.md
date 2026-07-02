@@ -18,10 +18,10 @@ I'm currently studying Web Development at IFRN and contribute to some class proj
 
 Featured projects
 
-Project| Description
-DelTerm| A terminal emulator built from scratch.
-DelRenderer| A simple 3D renderer made to better understand computer graphics.
-GameBoy-Emulator| A Game Boy emulator capable of running the original boot ROM.
+|Project| Description|
+|DelTerm| A terminal emulator built from scratch.|
+|DelRenderer| A simple 3D renderer made to better understand computer graphics.|
+|GameBoy-Emulator| A Game Boy emulator capable of running the original boot ROM.|
 
 Tech I use
 
